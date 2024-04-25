@@ -1,6 +1,6 @@
 # vSLAM
 ## Overview
-This project implements a visual SLAM (Simultaneous Localization and Mapping) system using [Framework/Library], allowing real-time mapping and localization using a monocular camera.
+This project implements a visual SLAM (Simultaneous Localization and Mapping) system using MATLAB, allowing real-time mapping and localization using a monocular camera.
 
 ## Features
 Camera Calibration: Corrects distortions and obtains intrinsic parameters.
